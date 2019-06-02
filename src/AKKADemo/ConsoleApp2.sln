@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeedNode", "ConsoleApp2\SeedNode.csproj", "{CB02550B-2F42-40DA-B361-6110DA30348F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cluster", "Cluster\Cluster.csproj", "{CEDFB1C7-71D4-4FAD-AD71-2FC28C74A34D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{BF363D66-46C5-4814-B912-729166616836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB02550B-2F42-40DA-B361-6110DA30348F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB02550B-2F42-40DA-B361-6110DA30348F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB02550B-2F42-40DA-B361-6110DA30348F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB02550B-2F42-40DA-B361-6110DA30348F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDFB1C7-71D4-4FAD-AD71-2FC28C74A34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDFB1C7-71D4-4FAD-AD71-2FC28C74A34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDFB1C7-71D4-4FAD-AD71-2FC28C74A34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDFB1C7-71D4-4FAD-AD71-2FC28C74A34D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF363D66-46C5-4814-B912-729166616836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF363D66-46C5-4814-B912-729166616836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF363D66-46C5-4814-B912-729166616836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF363D66-46C5-4814-B912-729166616836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF6F23A1-5587-4B20-B39C-98D137DEBF43}
+	EndGlobalSection
+EndGlobal
